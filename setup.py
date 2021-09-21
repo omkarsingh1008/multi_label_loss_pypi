@@ -6,7 +6,7 @@ PROJECT_NAME = "multi_label_loss_pypi"
 USER_NAME = "omkarsingh1008"
 setuptools.setup(
     name=f"tf_multilabelloss",
-    version="0.0.4",
+    version="0.0.5",
     author=USER_NAME,
     author_email="omkarsinghrajpurohit363@gmail.com",
     description="it's implimentation of preceptron",

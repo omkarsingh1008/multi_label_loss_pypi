@@ -1,5 +1,5 @@
 # tf-multilabelloss
-Create a multilabelloss which can help as whe we working on multilabel classification model. 
+Create a multilabelloss which can help as when we working on multilabel classification model. 
 meaning of multilabel classification is that:- 
 
 * develop a single model that will provide binary classification predictions for each of the num_class
