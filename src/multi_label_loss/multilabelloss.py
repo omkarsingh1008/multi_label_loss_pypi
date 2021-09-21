@@ -1,4 +1,3 @@
-import tensorflow as tf
 import tensorflow.keras.backend as k
 from tensorflow.keras.losses import Loss
 class MultilabelLoss(Loss):
