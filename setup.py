@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 PROJECT_NAME = "multi_label_loss_pypi"
 USER_NAME = "omkarsingh1008"
 setuptools.setup(
-    name=f"tf_multilabelloss",
-    version="0.0.5",
+    name=f"multiple_loss",
+    version="0.0.6",
     author=USER_NAME,
     author_email="omkarsinghrajpurohit363@gmail.com",
     description="it's implimentation of multiple loss",
