@@ -9,7 +9,7 @@ setuptools.setup(
     version="0.0.5",
     author=USER_NAME,
     author_email="omkarsinghrajpurohit363@gmail.com",
-    description="it's implimentation of preceptron",
+    description="it's implimentation of multiple loss",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/{USER_NAME}/{PROJECT_NAME}",
